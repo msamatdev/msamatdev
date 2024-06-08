@@ -40,4 +40,4 @@ I am not sure yet in which domain I'd like to work:
     📊 Stats
 </h1>
 
-<img align="center" src="https://github-stats-five-kappa.vercel.app/api/top-langs/?username=msamatdev">
+<img align="center" src="https://github-stats-ghosts-projects-15433e2d.vercel.app/api/top-langs/?username=msamatdev">
