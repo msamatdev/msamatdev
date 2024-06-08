@@ -44,5 +44,5 @@ I am not sure yet in which domain I'd like to work:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=msamatdev&show_icons=true&theme=transparent&card_width=360" />
 </a>
 <a href="https://github.com/msamatdev/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-zeta-topaz-82.vercel.app/api/top-langs?username=msamatdev&layout=compact&langs_count=8&card_width=340&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats-zeta-topaz-82.vercel.app/api/top-langs?username=msamatdev&layout=compact&langs_count=8&card_width=360&theme=transparent" />
 </a>
