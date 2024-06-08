@@ -33,5 +33,5 @@ I am still torn between three fields in computer science for my specialization:
 </h1>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,java,jquery,c,js,ts,postgres,html,css,tailwind,nextjs,git,linux,bash,arch,ubuntu&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,java,jquery,c,postgres,html,css,tailwind,nextjs,js,ts,git,linux,bash,arch,ubuntu&perline=4" />
 </p>
