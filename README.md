@@ -35,3 +35,9 @@ I am not sure yet in which domain I'd like to work:
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,java,jquery,c,postgres,html,css,tailwind,nextjs,js,ts,git,linux,bash,arch,ubuntu&perline=8" />
 </p>
+
+<h1 align="center">
+    📊 Stats
+</h1>
+
+[![Top Langs](https://github-stats-five-kappa.vercel.app/api/top-langs/?username=msamatdev)](https://github.com/msamatdev/github-stats)
