@@ -40,4 +40,6 @@ I am not sure yet in which domain I'd like to work:
     📊 Stats
 </h1>
 
-<img align="center" src="https://github-readme-stats-zeta-topaz-82.vercel.app/api/top-langs/?username=msamatdev">
+<a href="https://github.com/msamatdev/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-zeta-topaz-82.vercel.app/api/top-langs/?username=msamatdev&hide=jupyter%20notebook" />
+</a>
