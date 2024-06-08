@@ -41,9 +41,9 @@ I am not sure yet in which domain I'd like to work:
 </h1>
 
 <a href="https://github.com/msamatdev/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-zeta-topaz-82.vercel.app/api/top-langs/?username=msamatdev&hide=jupyter%20notebook&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats-zeta-topaz-82.vercel.app/api/top-langs/?username=msamatdev&hide=jupyter%20notebook&theme=transparent&card_with=300" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=msamatdev&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=msamatdev&show_icons=true&theme=transparent&card_width=360" />
 </a>
