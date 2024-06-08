@@ -32,4 +32,6 @@ I am still torn between three fields in computer science for my specialization:
     💡 Skills
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,jquery,c,js,ts,postgres,html,css,tailwind,nextjs,git,linux,bash,arch,ubuntu,)](https://skillicons.dev)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,java,jquery,c,js,ts,postgres,html,css,tailwind,nextjs,git,linux,bash,arch,ubuntu&perline=6" />
+</p>
