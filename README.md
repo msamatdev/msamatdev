@@ -40,4 +40,4 @@ I am not sure yet in which domain I'd like to work:
     📊 Stats
 </h1>
 
-[![Top Langs](https://github-stats-five-kappa.vercel.app/api/top-langs/?username=msamatdev)](https://github.com/msamatdev/github-stats)
+<img align="center" src="https://github-stats-five-kappa.vercel.app/api/top-langs/?username=msamatdev">
