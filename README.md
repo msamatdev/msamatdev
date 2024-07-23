@@ -9,7 +9,7 @@ Although my studies keep me busy, I like to learn more languages and tools in my
 I am now:
 <ul>
     <li>Learning Angular (with some of its librairies like PrimeNG, PrimeFlex, ...)</li>
-    <li>Trying to create a web panel (in Next.js) that sends requests to a backend app (that uses Django), in order to create and manage game servers with a few clicks. The servers will run docker.</li>
+    <li>Trying to create a web panel (in Next.js) that sends requests to a backend app (that uses Django), in order to create and manage game servers with a few clicks. The servers run on docker.</li>
     <li>Creating a small game in python, playable in terminal</li>
     <li>Managing a linux machine that hosts multiple video game servers</li>
 </ul>
