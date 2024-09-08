@@ -34,7 +34,7 @@ I am not sure yet in which domain I'd like to work:
 </h1>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,java,jquery,c,postgres,html,css,tailwind,nextjs,js,ts,git,linux,bash,arch,ubuntu,vscode,django,docker,github&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,java,jquery,c,postgres,html,css,tailwind,nextjs,js,ts,git,linux,bash,arch,ubuntu,vscode,django,docker,github&perline=10" />
 </p>
 
 <h1 align="center">
