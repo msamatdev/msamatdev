@@ -22,7 +22,7 @@ I am not sure yet in which domain I'd like to work:
         I find that cybersecurity is very interesting since it is always evolving. Its moral aspect aligns with my values.
     </li>
     <li>
-        As I enjoy coding and mastering new programming languages, the DevOps field would be an ideal fit for my interests, as it demands extensive knowledge of a wide range of languages and tools.
+        As I enjoy coding and mastering new programming languages, the DevOps field would be an ideal fit for my interests, as it demands extensive knowledge of a wide range of languages and tools. I could also work in the Cloud domain, which I find very interesting too.
     </li>
     <li>
         As I enjoy doing a bit of everything, full-stack development suits me perfectly. I love creating clean, reusable code components, developing both user interfaces and backend systems, and researching what is the most efficient way of doing things.
@@ -34,7 +34,7 @@ I am not sure yet in which domain I'd like to work:
 </h1>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,java,jquery,c,postgres,html,css,tailwind,nextjs,js,ts,git,linux,bash,arch,ubuntu&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,java,jquery,c,postgres,html,css,tailwind,nextjs,js,ts,git,linux,bash,arch,ubuntu,vscode,django,docker,github&perline=12" />
 </p>
 
 <h1 align="center">
