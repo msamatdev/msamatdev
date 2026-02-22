@@ -4,7 +4,7 @@
 
 I am a french student who is passionned by computers. I am following a 3 year academic program, the 'BUT Informatique', that covers topics such as Linux, databases, web servers and programming.
 
-Although my studies keep me busy, I like to learn more languages and tools in my spare time. For instance, I created almost 2 years ago a portfolio in Next.js 14, which allowed me to learn this framework, use Tailwind CSS, and write my first lines of backend as well.
+Although my studies keep me busy, I like to learn more languages and tools in my spare time. For instance, I recently learnt the Rust programming language.
 
 I am now in my spare time:
 <ul>
